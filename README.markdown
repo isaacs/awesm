@@ -1,1 +1,1 @@
-This is a repository to store hacks for [http://awe.sm].
+This is a repository to store hacks for <http://awe.sm>.
