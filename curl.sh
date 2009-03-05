@@ -34,4 +34,4 @@ done
 postdata=${postdata:1}
 
 # do it.
-echo curl -i -d "$postdata" $base_url
+curl -i -d "$postdata" $base_url
